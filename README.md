@@ -4,7 +4,7 @@ This image provides PowerShell with Azure Resource Manager Module - Management C
 - PowerShell 6.0.0 alpha 9
 - AzureRM.NetCore.Preview
 
-[![](https://images.microbadger.com/badges/version/lukaszkaluzny/powershell-azure.svg)](http://microbadger.com/images/lukaszkaluzny/powershell-azure "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/lukaszkaluzny/powershell-azure.svg)](http://microbadger.com/images/lukaszkaluzny/powershell-azure "Get your own image badge on microbadger.com")
 
 # Usage
 To run PowerShell:
